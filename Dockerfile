@@ -31,4 +31,4 @@ COPY launch_tb3sim_empty.sh /launch_tb3sim_empty.sh
 COPY launch_tb3sim_world.sh /launch_tb3sim_world.sh
 COPY launch_tb3sim_house.sh /launch_tb3sim_house.sh
 COPY launch_tb3_teleop.sh /launch_tb3_teleop.sh
-
+COPY launch_rqt.sh /launch_rqt.sh
