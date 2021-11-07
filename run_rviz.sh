@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker exec -it tb3sim /launch_rviz.sh
+docker exec -it tb3sim /scripts/launch_rviz.sh

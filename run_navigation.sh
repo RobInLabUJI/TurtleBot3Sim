@@ -2,5 +2,5 @@
 
 cp map.pgm /tmp
 cp map.yaml /tmp
-docker exec -it tb3sim /launch_navigation.sh
+docker exec -it tb3sim /scripts/launch_navigation.sh
 
